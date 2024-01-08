@@ -1,7 +1,9 @@
 <h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto!</h1>
  
  <div align="left">
-  
+
+  Como desenvolvedor de software há 3 anos, utilizo uma variedade de tecnologias e ferramentas para entregar soluções de alta qualidade. Meu foco principal é desenvolvimento mobile, com especialização em React Native, Redux, TypeScript, para plataformas Android e iOS, excelente com JavaScript. 
+Tenho proficiência em trabalhar com APIs RESTful e uso Git como meu sistema de controle de versão. Além disso, tenho experiência comprovada em , ReactJS, NodeJS , MySQL com Workbench e Styled-Components, tecnologias amplamente utilizadas no mercado em geral. Também, conhecimentos em Metodologias Ágeis, como Scrum e método Kanban.
    💻 Programador em busca de unir arte e tecnologia de forma inovadora.
    
    🎨 Artista visual apaixonado pela criação e expressão.
