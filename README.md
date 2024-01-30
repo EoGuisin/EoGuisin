@@ -36,6 +36,7 @@ Tenho proficiência em trabalhar com APIs RESTful e uso Git como meu sistema de 
   <img align="center" alt="Guisin-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Guisin-XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
 </div>
   
   ##
