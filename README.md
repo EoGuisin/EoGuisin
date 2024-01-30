@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto!</h1>
+<h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto Santos! Full-Stack Developer!</h1>
  
  <div align="left">
 
@@ -24,19 +24,20 @@ Tenho proficiência em trabalhar com APIs RESTful e uso Git como meu sistema de 
 </div>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Guisin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guisin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Guisin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guisin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guisin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guisin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guisin-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-  <img align="center" alt="Guisin-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Guisin-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Guisin-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Guisin-XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
+  <img align="center" alt="Guisin-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Guisin-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="Guisin-React" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Guisin-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Guisin-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Guisin-Python" height="30" width="40" src="https://skillicons.dev/icons?i=redux">
+ <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
+  <img align="center" alt="Guisin-Apple" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs">
+  <img align="center" alt="Guisin-Android" height="30" width="40" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s">
+  <img align="center" alt="Guisin-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="Guisin-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Guisin-XCode" height="30" width="40" src="https://skillicons.dev/icons?i=firebase">
+  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
+  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=ps">
 </div>
   
   ##
