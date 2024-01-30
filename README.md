@@ -2,7 +2,8 @@
  
  <div align="left">
 
-Como desenvolvedor de software há mais de 3 anos, utilizo uma  variedade de tecnologias e ferramentas para entregar soluções de  alta qualidade. Meu foco principal é desenvolvimento mobile, com especialização em React Native, Redux, TypeScript, Expo, para plataformas Android e iOS, sou excelente com JavaScript. Tenho experiência em trabalhar com APIs RESTful e uso Git como meu sistema de controle de versão. Além disso, sou muito proficiente em, ReactJS, NodeJS, MySQL e Styled-Components, tecnologias amplamente utilizadas no mercado em geral. Além disso, conhecimento e experiência em Metodologias Ágeis, framework Scrum e método Kanban.
+    Como desenvolvedor de software há mais de 3 anos, utilizo uma  variedade de tecnologias e ferramentas para entregar soluções de  alta qualidade. Meu foco principal é desenvolvimento mobile, com especialização em React Native, Redux, TypeScript, Expo, para plataformas Android e iOS, sou excelente com JavaScript.
+    Tenho experiência em trabalhar com APIs RESTful e uso Git como meu sistema de controle de versão. Além disso, sou muito proficiente em, ReactJS, NodeJS, MySQL e Styled-Components, tecnologias amplamente utilizadas no mercado em geral. Além disso, conhecimento e experiência em Metodologias Ágeis, framework Scrum e método Kanban.
    💻 Programador em busca de unir arte e tecnologia de forma inovadora.
    
    🎨 Artista visual apaixonado pela criação e expressão.
