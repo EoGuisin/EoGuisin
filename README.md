@@ -22,8 +22,6 @@
 
 <h2 align="center">Tech Stack</h2>
 
-## 
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr&theme=light" />
