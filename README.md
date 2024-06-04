@@ -19,7 +19,9 @@
    𝗦𝘁𝘆𝗹𝗶𝗻𝗴: Skill in creating styled components with 𝘀𝘁𝘆𝗹𝗲𝗱-𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, and mastery of 𝗛𝗧𝗠𝗟 and 𝗖𝗦𝗦 for web structure and design.
 
 </div>
- ## 
+
+  ##
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr&theme=light" />
