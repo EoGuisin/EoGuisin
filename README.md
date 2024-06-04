@@ -20,7 +20,9 @@
 
 </div>
 
-<h4 align="center">Tech Stack</h4>
+<h2 align="center">Tech Stack</h2>
+
+## 
 
 <div align="center">
   <a href="https://skillicons.dev">
