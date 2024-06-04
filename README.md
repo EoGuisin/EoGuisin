@@ -1,23 +1,24 @@
-<h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto! Full-Stack Developer!</h1>
+<h1 align="center">Hello, I present to you my universe. I am Guilherme Augusto! Full-Stack Developer!</h1>
  
  <div align="left">
 
-   <h3 align="center"> Tenho 3 anos e meio de experiência trabalhando como 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸. Sou especializado em criar soluções eficientes e escaláveis, utilizando uma ampla gama de tecnologias e frameworks modernos. Minhas habilidades técnicas incluem:</h2>
+   <h3 align="center">I have 3 and a half years of experience working as a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. I specialize in creating efficient and scalable solutions, using a wide range of modern technologies and frameworks. My technical skills include:</h3>
 
-𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Desenvolvimento com 𝗡𝗼𝗱𝗲𝗝𝗦, criação de 𝗔𝗣𝗜𝘀 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 e gerenciamento de banco de dados com 𝗠𝘆𝗦𝗤𝗟.
+   𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Development with 𝗡𝗼𝗱𝗲𝗝𝗦, creation of 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜𝘀 and database management with 𝗠𝘆𝗦𝗤𝗟.
+   
+   𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: Building interactive user interfaces with 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 and 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲, in addition to responsive web development with 𝗡𝗲𝘅𝘁𝗝𝗦.
+   
+   𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Proficiency in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗣𝘆𝘁𝗵𝗼𝗻, allowing me to quickly adapt to different coding environments.
+   
+   𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Experience with 𝗘𝘅𝗽𝗼 and 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 for rapid and efficient mobile app development, 𝗫𝗖𝗼𝗱𝗲 and 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼 for app signing, builds and app monitoring.
+   
+   𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: Use of 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 for backend services and real-time database.
+   
+   𝗔𝗴𝗶𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Familiarity with agile methodologies, including 𝗦𝗰𝗿𝘂𝗺 and 𝗞𝗮𝗻𝗯𝗮𝗻, to optimize workflow and team collaboration.
+   
+   𝗦𝘁𝘆𝗹𝗶𝗻𝗴: Skill in creating styled components with 𝘀𝘁𝘆𝗹𝗲𝗱-𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, and mastery of 𝗛𝗧𝗠𝗟 and 𝗖𝗦𝗦 for web structure and design.
 
-𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: Construção de interfaces de usuário interativas com 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 e 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲, além de desenvolvimento web responsivo com 𝗡𝗲𝘅𝘁𝗝𝗦.
-
-𝗟𝗶𝗻𝗴𝘂𝗮𝗴𝗲𝗻𝘀 𝗱𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼: Proficiência em 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 e 𝗣𝘆𝘁𝗵𝗼𝗻, permitindo-me adaptar-se rapidamente a diferentes ambientes de codificação.
-
-𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Experiência com 𝗘𝘅𝗽𝗼 e 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 para desenvolvimento rápido e eficiente de aplicativos móveis, 𝗫𝗖𝗼𝗱𝗲 e 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼 para assinatura do app, builds e monitoramento de apps.
-
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: Utilização de 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 para serviços de back-end e banco de dados em tempo real.
-
-𝗠𝗲𝘁𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗔𝗴𝗲𝗶𝘀: Familiaridade com metodologias ágeis, incluindo 𝗦𝗰𝗿𝘂𝗺 e 𝗞𝗮𝗻𝗯𝗮𝗻, para otimizar o fluxo de trabalho e a colaboração em equipe.
-
-𝗘𝘀𝘁𝗶𝗹𝗶𝘇𝗮𝗰̧𝗮̃𝗼: Habilidade em criar componentes estilizados com 𝘀𝘁𝘆𝗹𝗲𝗱-𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, e domínio de 𝗛𝗧𝗠𝗟 e 𝗖𝗦𝗦 para estruturação e design web
-  </div>
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
