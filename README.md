@@ -24,7 +24,6 @@
 </div>
 
 <div style="display: inline_block" align="center">
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
   <img align="center" alt="Guisin-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="Guisin-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts">
