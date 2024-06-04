@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto Santos! Full-Stack Developer!</h1>
+<h1 align="center">Olá, Apresento a vocês o meu universo. Sou o Guilherme Augusto! Full-Stack Developer!</h1>
  
  <div align="left">
 
