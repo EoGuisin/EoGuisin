@@ -24,7 +24,6 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Guisin-Android" height="30" width="40" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s">
   <img align="center" src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr,firebase,styledcomponents,figma&theme=light">
 </div>
   
