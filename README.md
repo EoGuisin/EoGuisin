@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&username=EoGuisin" height="150" alt="languages graph"  />
 </div>
 
-<p align="center">
+<p align="center" justify="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr,firebase,styledcomponents,figma&theme=light" />
   </a>
