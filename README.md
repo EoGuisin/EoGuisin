@@ -36,8 +36,9 @@
   <img align="center" alt="Guisin-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="Guisin-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Guisin-XCode" height="30" width="40" src="https://skillicons.dev/icons?i=firebase">
-  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
-  <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=ps">
+  <img align="center" alt="Guisin-pr" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
+  <img align="center" alt="Guisin-ps" height="30" width="40" src="https://skillicons.dev/icons?i=ps">
+  <img align="center" alt="Guisin-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
 </div>
   
   ##
