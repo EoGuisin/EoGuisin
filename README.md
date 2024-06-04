@@ -2,7 +2,7 @@
  
  <div align="left">
 
-   <h2 align="center"> Tenho 3 anos e meio de experiência trabalhando como 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸. Sou especializado em criar soluções eficientes e escaláveis, utilizando uma ampla gama de tecnologias e frameworks modernos. Minhas habilidades técnicas incluem:</h2>
+   <h3 align="center"> Tenho 3 anos e meio de experiência trabalhando como 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸. Sou especializado em criar soluções eficientes e escaláveis, utilizando uma ampla gama de tecnologias e frameworks modernos. Minhas habilidades técnicas incluem:</h2>
 
 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Desenvolvimento com 𝗡𝗼𝗱𝗲𝗝𝗦, criação de 𝗔𝗣𝗜𝘀 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 e gerenciamento de banco de dados com 𝗠𝘆𝗦𝗤𝗟.
 
