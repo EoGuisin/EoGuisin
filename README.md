@@ -2,20 +2,21 @@
  
  <div align="left">
 
-   Como desenvolvedor de software há mais de 3 anos, utilizo uma  variedade de tecnologias e ferramentas para entregar soluções de  alta qualidade. Meu foco principal é desenvolvimento mobile, com especialização em React Native, Redux, TypeScript, Expo, para plataformas Android e iOS, sou excelente com JavaScript.
-   
-   Tenho experiência em trabalhar com APIs RESTful e uso Git como meu sistema de controle de versão. Além disso, sou muito proficiente em, ReactJS, NodeJS, MySQL e Styled-Components, tecnologias amplamente utilizadas no mercado em geral. Além disso, conhecimento e experiência em Metodologias Ágeis, framework Scrum e método Kanban.
-   💻 Programador em busca de unir arte e tecnologia de forma inovadora.
-   
-   🎨 Artista visual apaixonado pela criação e expressão.
+   Tenho 3 anos e meio de experiência trabalhando como 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸. Sou especializado em criar soluções eficientes e escaláveis, utilizando uma ampla gama de tecnologias e frameworks modernos. Minhas habilidades técnicas incluem:
 
-   ✍️ Criador de conteúdo, entretenimento e união.
+𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Desenvolvimento com 𝗡𝗼𝗱𝗲𝗝𝗦, criação de 𝗔𝗣𝗜𝘀 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 e gerenciamento de banco de dados com 𝗠𝘆𝗦𝗤𝗟.
 
-   🌟 Transformando ideias em imagens e códigos que encantam.
+𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: Construção de interfaces de usuário interativas com 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 e 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲, além de desenvolvimento web responsivo com 𝗡𝗲𝘅𝘁𝗝𝗦.
 
-   🌈 Apaixonado por cores, formas e tipografia.
+𝗟𝗶𝗻𝗴𝘂𝗮𝗴𝗲𝗻𝘀 𝗱𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼: Proficiência em 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 e 𝗣𝘆𝘁𝗵𝗼𝗻, permitindo-me adaptar-se rapidamente a diferentes ambientes de codificação.
 
-   📚 Aprendendo constantemente para evoluir minhas habilidades.
+𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Experiência com 𝗘𝘅𝗽𝗼 e 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 para desenvolvimento rápido e eficiente de aplicativos móveis, 𝗫𝗖𝗼𝗱𝗲 e 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼 para assinatura do app, builds e monitoramento de apps.
+
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: Utilização de 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 para serviços de back-end e banco de dados em tempo real.
+
+𝗠𝗲𝘁𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗔𝗴𝗲𝗶𝘀: Familiaridade com metodologias ágeis, incluindo 𝗦𝗰𝗿𝘂𝗺 e 𝗞𝗮𝗻𝗯𝗮𝗻, para otimizar o fluxo de trabalho e a colaboração em equipe.
+
+𝗘𝘀𝘁𝗶𝗹𝗶𝘇𝗮𝗰̧𝗮̃𝗼: Habilidade em criar componentes estilizados com 𝘀𝘁𝘆𝗹𝗲𝗱-𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, e domínio de 𝗛𝗧𝗠𝗟 e 𝗖𝗦𝗦 para estruturação e design web
   </div>
 
 <div align="center">
