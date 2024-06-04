@@ -19,11 +19,14 @@
 𝗘𝘀𝘁𝗶𝗹𝗶𝘇𝗮𝗰̧𝗮̃𝗼: Habilidade em criar componentes estilizados com 𝘀𝘁𝘆𝗹𝗲𝗱-𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, e domínio de 𝗛𝗧𝗠𝗟 e 𝗖𝗦𝗦 para estruturação e design web
   </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&username=EoGuisin" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr,firebase,styledcomponents,figma&theme=light" />
+  </a>
 </div>
 
-<p align="center" justify="center">
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr,firebase,styledcomponents,figma&theme=light" />
   </a>
