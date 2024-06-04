@@ -24,22 +24,8 @@
 </div>
 
 <div style="display: inline_block" align="center">
-
-  <img align="center" alt="Guisin-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="Guisin-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts">
-  <img align="center" alt="Guisin-React" height="30" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Guisin-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Guisin-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="Guisin-Python" height="30" width="40" src="https://skillicons.dev/icons?i=redux">
- <img align="center" alt="Guisin-AndroidStudio" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
-  <img align="center" alt="Guisin-Apple" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="Guisin-Android" height="30" width="40" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,figma&theme=light">
-  <img align="center" alt="Guisin-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Guisin-XCode" height="30" width="40" src="https://skillicons.dev/icons?i=firebase">
-  <img align="center" alt="Guisin-pr" height="30" width="40" src="https://skillicons.dev/icons?i=pr">
-  <img align="center" alt="Guisin-ps" height="30" width="40" src="https://skillicons.dev/icons?i=ps">
-  <img align="center" alt="Guisin-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,react,nextjs,redux,mysql,firebase,sequelize,androidstudio,ps,pr,firebase,styledcomponents,figma&theme=light">
 </div>
   
   ##
