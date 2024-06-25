@@ -2,7 +2,7 @@
  
  <div align="left">
 
-   <h3 align="center">I have almost 4 years of experience working as a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. I specialize in creating efficient and scalable solutions, using a wide range of modern technologies and frameworks. My technical skills include:</h3>
+   <h3 align="center">I have almost 4 years of experience working as a Software Developer. I specialize in creating efficient and scalable solutions, using a wide range of modern technologies and frameworks. My technical skills include:</h3>
 
    𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Development with 𝗡𝗼𝗱𝗲𝗝𝗦, creation of 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜𝘀 and database management with 𝗠𝘆𝗦𝗤𝗟.
    
