@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I present to you my universe. I am Guilherme Augusto! Full-Stack Developer!</h1>
+<h1 align="center">Hello, I present to you my universe. I am Guilherme Augusto, a Designer and Software Developer!</h1>
  
  <div align="left">
 
